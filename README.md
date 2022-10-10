@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noppanut Thongton [@NoppanutPat]
+- 👋 Hi, I’m Noppanut Thongton. [@NoppanutPat]
 - 👀 I’m interested in robotics software development.
 - 🌱 I’m currently studying in Ph.D. of electrical engineering, Kasetsart University, Thailand
 
